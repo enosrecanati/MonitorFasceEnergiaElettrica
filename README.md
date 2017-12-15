@@ -25,7 +25,7 @@ The device will syncronize the clock with a public NTP server at boot and re-syn
 
 # Known Issues
 
-The current version does not take into account the festivities, but only the hourly scheduling.
+The current version does not take into account festivities, but only the hourly scheduling.
 
 # Build Instructions
 
